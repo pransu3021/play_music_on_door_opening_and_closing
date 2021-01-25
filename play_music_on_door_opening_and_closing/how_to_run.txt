@@ -1,0 +1,16 @@
+All you need to put the path of feed in main at line no. 7
+
+video_file = "path"
+ 
+In line mumber 44, add the path of audio file, 
+playsound('path', True)
+
+After loading the path
+run the main.py file from terminal or from anywhere
+
+i.e python3 main.py
+
+
+
+cerium@Cerium:~/Downloads/door$ python3 main.py
+
